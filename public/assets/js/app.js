@@ -119,7 +119,7 @@ const searchInput = document.getElementById('pixabaySearch');
 const resultsDiv = document.getElementById('pixabayResults');
 const mediaInput = document.getElementById('media_url');
 
-searchBtn.addEventListener('click', () => { alert('tets');
+searchBtn.addEventListener('click', () => {
     const query = searchInput.value.trim();
     if(!query) return alert("Enter a search term");
 
