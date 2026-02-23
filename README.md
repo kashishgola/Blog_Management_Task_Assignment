@@ -16,7 +16,7 @@ user1@gmail.com , Password: user1
 
 user2@gmail.com , Password: user2
 
-This file includes:
+This file includes:  
 ✔ Users table     
 ✔ Posts table  
 ✔ Sample admin + users  
@@ -31,8 +31,7 @@ DB_NAME=blog_management
 DB_USER=root
 DB_PASS=
 
-JWT_SECRET=your_jwt_secret_key_here
-
+JWT_SECRET=d63f5a3e48604493a1584f2505539804db8ae2b340648b4b7c13c2f9211ede26
 PIXABAY_API_KEY=54761238-77e15fee65a2bcfde7ad52f02
 
 Export the SQL file inside the Database folder:
