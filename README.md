@@ -26,13 +26,13 @@ This file includes:
 ✔ Soft delete fields  
 
 
-DB_HOST=localhost:3307
-DB_NAME=blog_management
-DB_USER=root
-DB_PASS=
+DB_HOST=localhost:3307  
+DB_NAME=blog_management  
+DB_USER=root  
+DB_PASS=  
 
-JWT_SECRET=d63f5a3e48604493a1584f2505539804db8ae2b340648b4b7c13c2f9211ede26
-PIXABAY_API_KEY=54761238-77e15fee65a2bcfde7ad52f02
+JWT_SECRET=d63f5a3e48604493a1584f2505539804db8ae2b340648b4b7c13c2f9211ede26  
+PIXABAY_API_KEY=54761238-77e15fee65a2bcfde7ad52f02  
 
 Export the SQL file inside the Database folder:
 
