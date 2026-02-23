@@ -1,0 +1,7 @@
+Options -Indexes
+
+RewriteEngine On
+
+# Allow all PHP files to run normally
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
